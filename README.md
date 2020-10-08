@@ -1,5 +1,13 @@
 # Go HTTP Server
 
+## HTTP Server
+
+A simple HTTP server capabale of handling GET and POST requests.
+Capabilities include:
+1. Serving HTML data via GET request.
+2. Serving JSON/XML data via GET request.
+3. Accepting a file uplaad uisng POST rquest.
+
 ## Contribution guidelines
 
 Pull requests are the best way to propose changes to the codebase (we use Github Flow). We actively welcome your pull requests:
