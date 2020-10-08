@@ -8,6 +8,9 @@ Capabilities include:
 2. Serving JSON/XML data via GET request.
 3. Accepting a file uplaad uisng POST rquest.
 
+The server runs on port 8080 and can be accssed through http://localhost:8080
+To server static files create a `static` directory inside `main` and put all the static files there.
+
 ## Contribution guidelines
 
 Pull requests are the best way to propose changes to the codebase (we use Github Flow). We actively welcome your pull requests:
